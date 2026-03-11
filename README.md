@@ -4,7 +4,7 @@ A lightweight, high-performance PHP debugger extension. Forked from [Xdebug](htt
 
 ## Why PHP Debugger?
 
-- **~10% overhead** when loaded but inactive (vs ~630% before optimization)
+- **+4% overhead** when loaded but inactive (vs +324% in Xdebug)
 - **Drop-in Xdebug replacement** — existing configs, IDE setups, and workflows work unchanged
 - **Debug-only** — no profiler, no coverage, no tracing. Just debugging, done right.
 - **Full DBGp protocol support** — works with PhpStorm, VS Code, and any DBGp-compatible IDE
